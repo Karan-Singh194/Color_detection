@@ -94,7 +94,3 @@ NumPy – for array and color range handling
 💡 Student | Developer 
 📫 Connect with me on GitHub: [@Karan-Singh194](https://github.com/Karan-Singh194)
 
----
-
-Would you like me to include a **preview image section** (for your GUI window layout) or a **badges section** (Python version, license, etc.) to make it look more professional for GitHub?
-
