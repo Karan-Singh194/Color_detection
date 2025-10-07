@@ -3,7 +3,7 @@
 A real-time color detection application built with Python, OpenCV, and PyQt5.
 The app detects selected colors (Red, Green, Blue, Yellow) from your camera feed and highlights the detected area — all inside a modern GUI interface.
 
-🚀 Features
+##🚀 Features
 
 🖥️ Live Camera Feed displayed inside the PyQt5 GUI
 🎯 Color Detection for multiple colors (Red, Green, Blue, Yellow)
