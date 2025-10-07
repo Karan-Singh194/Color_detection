@@ -92,7 +92,7 @@ NumPy – for array and color range handling
 
 ## Karan Singh
 💡 Student | Developer 
-📫 Connect with me on GitHub: @Karan-Singh194
+📫 Connect with me on GitHub: [@Karan-Singh194](https://github.com/Karan-Singh194)
 
 ---
 
