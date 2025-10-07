@@ -1,38 +1,47 @@
 # 🎨 Color Detection App (PyQt5 + OpenCV)
 
-**A real-time color detection application built with Python, OpenCV, and PyQt5.
+**A real-time color detection application built with Python, OpenCV, and PyQt5.  
 The app detects selected colors (Red, Green, Blue, Yellow) from your camera feed and highlights the detected area — all inside a modern GUI interface.**
 
+---
 
 ## 🚀 Features
 
-🖥️ Live Camera Feed displayed inside the PyQt5 GUI
-🎯 Color Detection for multiple colors (Red, Green, Blue, Yellow)
-🔲 Bounding Box around detected color objects
-🎛️ Start / Stop controls inside the GUI
-⚡ Real-time performance using OpenCV
-🧩 Modular structure with a utility file (util_all.py) for HSV range calculations
+- 🖥️ **Live Camera Feed** displayed inside the PyQt5 GUI  
+- 🎯 **Color Detection** for multiple colors (Red, Green, Blue, Yellow)  
+- 🔲 **Bounding Box** around detected color objects  
+- 🎛️ **Start / Stop** controls inside the GUI  
+- ⚡ **Real-time performance** using OpenCV  
+- 🧩 **Modular structure** with a utility file (`util_all.py`) for HSV range calculations  
 
+---
 
-## 📂 Color-Detection-App/
+## 📂 Project Structure
+
+Color-Detection-App/
 │
 ├── cv_all_gui_feed.py   # Main GUI + color detection logic
 ├── util_all.py          # Utility file for color HSV range calculation
 └── README.md            # Project documentation
 
 
+
+---
+
 ## 🧠 How It Works
-The app opens your system’s camera and continuously reads frames.
-You select a color from the dropdown (Red, Green, Blue, or Yellow).
-The frame is converted to HSV and a mask is created using color limits.
-Detected color regions are highlighted with a green rectangle in real time.
-Press “Stop” to end the detection or close the window safely.
 
+1. The app opens your system’s camera and continuously reads frames.  
+2. You select a color from the dropdown (Red, Green, Blue, or Yellow).  
+3. The frame is converted to HSV and a mask is created using color limits.  
+4. Detected color regions are highlighted with a green rectangle in real time.  
+5. Press **“Stop”** to end the detection or close the window safely.
 
+---
 
 ## 🧰 Requirements
 
-**Make sure you have Python and pip installed, then install the following:**
+Make sure you have Python and pip installed, then install the following:
+
 "pip install opencv-python pillow PyQt5 numpy"
 
 
@@ -84,3 +93,8 @@ NumPy – for array and color range handling
 ## Karan Singh
 💡 Student | Developer 
 📫 Connect with me on GitHub: @Karan-Singh194
+
+---
+
+Would you like me to include a **preview image section** (for your GUI window layout) or a **badges section** (Python version, license, etc.) to make it look more professional for GitHub?
+
