@@ -63,6 +63,7 @@ Press Stop to stop the camera feed.
 📸 Demo
 
 🧠 a short demo video or screenshot here.
+![alt text](screenshot/2_dashboard.png)
 ![App Demo](demo.gif)(not make )
 
 
