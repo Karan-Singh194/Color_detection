@@ -47,8 +47,8 @@ Make sure you have Python and pip installed, then install the following:
 
 ## ▶️ Run the App
 **Clone the repository or download the files.**
-"git clone https://github.com/<your-username>/Color-Detection-App.git"
-"cd Color-Detection-App"
+"[git clone https://github.com/<your-username>/Color-Detection-App.git](https://github.com/Karan-Singh194/Color_detection.git)"
+"cd Color-Detection"
 
 ### Run the application:
 **python cv_all_gui.py**
